@@ -9,6 +9,7 @@ database.batchable(j0b2)
 
 {
 //checkthe update
+system.print ("helloo")
 
 }
 

@@ -10,6 +10,7 @@ database.batchable(j0b2)
 {
 //checkthe update
 system.print ("helloo")
-
+//change by remote master
+console.log(welcome from git)
 }
 
